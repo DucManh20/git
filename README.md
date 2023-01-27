@@ -1,2 +1,2 @@
 # git
-create template in branch master .github
+Pull request template in branch master .github
